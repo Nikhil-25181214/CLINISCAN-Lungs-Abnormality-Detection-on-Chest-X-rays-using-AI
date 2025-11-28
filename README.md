@@ -37,7 +37,7 @@ Users can upload an X-ray → get disease predictions + bounding-box visualizati
 ---
 
 ## 🗂 Project Structure
-A:\HRITHIK                                                                                                                                                                     
+A:\CliniScan
 │
 ├── main.py
 ├── requirements.txt
